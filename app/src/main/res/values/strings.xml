@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Weather Forecast</string>
+    <string name="title_find_cities_weather" translatable="false">Find Cities Weather</string>
+    <string name="title_current_city_forecast" translatable="false">Current City Forecast</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="error_message" translatable="false">Connection Error!</string>
+    <string name="no_data_found" translatable="false">No data found</string>
+    <string name="no_internet_connection" translatable="false">No Internet Connection</string>
+    <string name="field_is_empty" translatable="false">Field is empty!</string>
+    <string name="instructions_find_cities" translatable="false">Please enter at least 3 cities up to 7 cities separated by commas (,)</string>
+    <string name="hint_find_cities" translatable="false">City Names</string>
+    <string name="enable_gps" translatable="false">Please enable your GPS</string>
+    <string name="permission_request" translatable="false">App requires location permission</string>
+    <string name="permission_required" translatable="false">Permission required</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="current" translatable="false">Current</string>
+    <string name="temperature" translatable="false">Temperature</string>
+    <string name="weather" translatable="false">Weather</string>
+    <string name="humidity" translatable="false">Humidity</string>
+    <string name="wind" translatable="false">Wind Speed</string>
+    <string name="wind_unit_label" translatable="false">%.0f km/hr</string>
+    <string name="temp_unit_label" translatable="false">%.0f°</string>
+    <string name="next_5_days_hourly" translatable="false">Next 5 Days/ 3 Hours</string>
+    <string name="hello_word">HELLO WORLD</string>
+</resources>

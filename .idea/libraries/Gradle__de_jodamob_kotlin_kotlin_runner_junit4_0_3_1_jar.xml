@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: de.jodamob.kotlin:kotlin-runner-junit4:0.3.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.jodamob.kotlin/kotlin-runner-junit4/0.3.1/18aab02091ba3b44b36f3d91df2f36164c1ca611/kotlin-runner-junit4-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.jodamob.kotlin/kotlin-runner-junit4/0.3.1/d8fd615e81c83d3e3dd36821ebf6da961393d7dd/kotlin-runner-junit4-0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.jodamob.kotlin/kotlin-runner-junit4/0.3.1/cbeb447c59bf9ab7ef9d63c6ff9b44faeaa3adf2/kotlin-runner-junit4-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
