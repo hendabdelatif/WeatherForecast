@@ -66,7 +66,7 @@ Get current location using google location services and view a list of data weat
 
 **Step 2 - Current City Forecast**
 
-![Step2](https://user-images.githubusercontent.com/6572487/76679502-8e309780-65fa-11ea-9311-513e4c9ef375.jpg)
+![Step2](https://user-images.githubusercontent.com/6572487/76700651-14b8a800-66d3-11ea-907e-d29728ce74d8.jpg)
 
 
 
